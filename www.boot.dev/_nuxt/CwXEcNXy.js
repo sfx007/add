@@ -1,0 +1,1 @@
+import{ap as o,m as s,o as n,as as t}from"./Djz0RQIo.js";const c={},r={class:"prose-article max-w-none"};function a(e,_){return n(),s("div",r,[t(e.$slots,"default")])}const m=o(c,[["render",a]]);export{m as _};

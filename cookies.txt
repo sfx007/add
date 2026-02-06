@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+boot.dev	TRUE	/	FALSE	1999999999	useruuid	84778b21-1dd5-4b3e-8653-b353d8115f8d
+www.boot.dev	TRUE	/	FALSE	1999999999	cf-country	MA
+www.boot.dev	TRUE	/	FALSE	1999999999	SameSite	Lax
+

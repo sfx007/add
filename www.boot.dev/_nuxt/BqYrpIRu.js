@@ -1,0 +1,1 @@
+import{I as f,E as i,f as c,N as v,j as e}from"./Djz0RQIo.js";function m(){const n=f(),{user:s,isLoggedIn:t}=i(n),{getLesson:o}=c(),a=v(),l=e(()=>a.params.lessonUUID),r=e(()=>{const u=o(l.value);return u?u.Lesson:null});return{inGuestMode:e(()=>!r.value||t.value&&!s.value?!1:t.value?!(r.value.IsFree||s.value?.IsMember):!0)}}export{m as u};
